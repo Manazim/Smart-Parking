@@ -1,7 +1,5 @@
 # 🚗 Smart IoT Parking System with License Plate Recognition
 
-If you have any inquiries, feel free to email me at **aimanazim539@gmail.com** — I'm happy to help!
-
 ## 📝 Overview
 
 This is an **IoT-based smart parking system** that uses **license plate detection and recognition** to automate vehicle entry. Only **authorized vehicles** (those registered in the system) will be allowed to enter the parking area by automatically lifting the gate. The system is connected to a **web-based dashboard** that enables administrators to monitor, register, and remove plate numbers in real-time.
