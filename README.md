@@ -94,6 +94,9 @@ The dashboard allows administrators to:
 
 ---
 
+![System Demo](./demo.gif)
+
+
 ## 📬 Contact
 
 For questions, support, or collaboration, feel free to reach out:
