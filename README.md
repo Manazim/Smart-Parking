@@ -44,8 +44,7 @@ After testing several options, **EasyOCR** was chosen due to its excellent accur
 pip install easyocr
 ```
 
-![Uploading WhatsApp Image 2025-04-10 at 15.24.56_94e0ddfd.jpg…]()
-
+![Camera Detection Frame](./detect.png)
 
 ---
 
