@@ -12,6 +12,7 @@ This is an **IoT-based smart parking system** that uses **license plate detectio
   - View entry logs.
   - Receive entry notifications.
   - Register or delete license plate numbers.
+  - Control the poll (for soecial granted such as VIP)
 
 ---
 
