@@ -99,7 +99,7 @@ class TextRecognitionThread(Thread):
             cv2.putText(self.frame, detected_text, (xmin, ymin - 10), cv2.FONT_HERSHEY_SIMPLEX, 0.7, (0, 255, 0), 2)
 
 # MongoDB Configuration for carplates and status
-MONGO_URI = "mongodb+srv://zabarose02:akubudakhensem@cluster0.db6et.mongodb.net/"
+MONGO_URI = "#########################################"
 DATABASE_NAME = "ParkingSystem"
 CARPLATES_COLLECTION = "carplates"
 STATUS_COLLECTION = "Status"
