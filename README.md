@@ -44,7 +44,7 @@ After testing several options, **EasyOCR** was chosen due to its excellent accur
 pip install easyocr
 ```
 
-![Camera Detection Frame](./detect.png)
+![Camera Detection Frame](./detect.jpg)
 
 ---
 
